@@ -50,12 +50,11 @@ After collecting coins or reaching a certain limit, Pacman searchs for a ghost.
 ## Additionally:
 
 Right-clicking on the program enables/disables the option to show the path of Pacman's search. This allows users to visualize the search process.
+<img src = "https://github.com/YardenCherry/Pacman/assets/155112044/bd494467-1d2e-43c2-b858-ae0a2ff647b7" alt= pacman1 width= "430" height="430">
+<img src = "https://github.com/YardenCherry/Pacman/assets/155112044/bd5c6fa2-5deb-475c-b2d2-5d5dcf897c7b" alt= pacman2 width= "430" height="430">
+<img src = "https://github.com/YardenCherry/Pacman/assets/155112044/2de18f6b-f266-4075-82d9-7364bd983077" alt= numOfCoins width= "430" height="430">
 
-![Screenshot 2024-05-16 120653](https://github.com/YardenCherry/Pacman/assets/155112044/bd494467-1d2e-43c2-b858-ae0a2ff647b7)
 
-![2](https://github.com/YardenCherry/Pacman/assets/155112044/bd5c6fa2-5deb-475c-b2d2-5d5dcf897c7b)
-
-![3](https://github.com/YardenCherry/Pacman/assets/155112044/2de18f6b-f266-4075-82d9-7364bd983077)
 
 
 
